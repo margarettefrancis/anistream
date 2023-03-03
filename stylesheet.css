@@ -90,3 +90,15 @@ button {
 #slideShowContainer img {
     height: 380px;
 }
+
+#loginBtn:hover {
+    background-color: black;
+    color: white;
+
+}
+
+#siginBtn:hover {
+    background-color: black;
+    color: white;
+
+}
